@@ -4,6 +4,7 @@
 *.dblite
 *.elf
 *.bin
+*.ssh
 *.hex
 *.axf
 *.exe
